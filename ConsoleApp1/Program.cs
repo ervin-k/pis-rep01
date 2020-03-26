@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
+            //govno
+            Console.WriteLine("prva promjena koda");
         }
     }
 }
