@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //govno
+            //komentar kolaboratora Mate Cosica
             Console.WriteLine("prva promjena koda");
         }
     }
