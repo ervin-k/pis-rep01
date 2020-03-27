@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             //komentar kolaboratora Mate Cosica
             Console.WriteLine("prva promjena koda");
+            //"ispravka" greske
         }
     }
 }
